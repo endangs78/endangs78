@@ -28,7 +28,6 @@ Passionate about clean architecture, RESTful API design, and continuous improvem
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![DB2](https://img.shields.io/badge/IBM_DB2-052FAD?style=flat&logo=ibm&logoColor=white)
 
 **DevOps & Cloud**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
